@@ -1,2 +1,2 @@
-# Arduino-Programming-Course
+# Arduino-Fubdamentals-Course
 This course, presented in Arabic for beginners, covers all essential aspects of microcontroller programming, error diagnosis, and handling unexpected problems. You will learn the basics of programming in C++, from writing comments to working with two-dimensional arrays, progressing to an upper-intermediate level. Programming topics are integrated with hardware applications, allowing you to build your knowledge step by step. By the end of the course, you will be able to program a remote-controlled car and your first robot arm for repeated tasks. Each lesson takes 30 minutes or less and requires only a laptop to simulate your code and circuits. All necessary files will be provided as attachments.
